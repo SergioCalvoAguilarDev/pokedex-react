@@ -25,7 +25,7 @@ function Home() {
       <nav className="menu">
         <ul>
           <li><Link to="/pokedex">Pokédex (consumo API)</Link></li>
-          <li><a href="https://github.com/SergioCalvoAguilarDev/Pok-dex" target="_blank" rel="noopener noreferrer">Repositorio GitHub</a></li>
+          <li><a href="https://github.com/SergioCalvoAguilarDev/pokedex-react" target="_blank" rel="noopener noreferrer">Repositorio GitHub</a></li>
         </ul>
       </nav>
     </div>
