@@ -11,6 +11,10 @@ Una aplicación **Pokédex** moderna construida con React y Vite que consume la 
 - ♿ **Accesible** - Semántica HTML correcta y atributos alt en imágenes
 - 🎯 **Manejo de errores** - Feedback claro al usuario en cada situación
 
+## 📹 Demo
+
+<video src="videos/demo.mp4" width="500" controls></video>
+
 ## 🛠️ Tecnologías
 
 - **React 18** - Librería UI
