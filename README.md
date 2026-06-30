@@ -15,6 +15,8 @@ Una aplicación **Pokédex** moderna construida con React y Vite que consume la 
 
 <video src="videos/demo.mp4" width="500" controls></video>
 
+![Demo Pokédex](videos/demo.gif)
+
 ## 🛠️ Tecnologías
 
 - **React 18** - Librería UI
